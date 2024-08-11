@@ -1,8 +1,8 @@
-package com.dyiet.app.ui.authenticate
+package com.diyet.app.ui.authenticate
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.dyiet.app.data.repository.AuthenticationRepository
+import com.diyet.app.data.repository.AuthenticationRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow

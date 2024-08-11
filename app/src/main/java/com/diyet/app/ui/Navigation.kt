@@ -1,13 +1,13 @@
-package com.dyiet.app.ui
+package com.diyet.app.ui
 
 
 import androidx.navigation.NavGraph.Companion.findStartDestination
 import androidx.navigation.NavHostController
 
 /**
- * Destinations used in the [DyietApp].
+ * Destinations used in the [DiyetApp].
  */
-object DyietDestinations {
+object DiyetDestinations {
     const val HOME_ROUTE = "home"
     const val AUTHENTICATE_ROUTE = "authenticate"
 }

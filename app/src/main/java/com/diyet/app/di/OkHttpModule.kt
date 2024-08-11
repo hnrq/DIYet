@@ -1,4 +1,4 @@
-package com.dyiet.app.repository
+package com.diyet.app.repository
 
 import android.content.Context
 import dagger.Module

@@ -1,4 +1,4 @@
-package com.dyiet.app
+package com.diyet.app
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

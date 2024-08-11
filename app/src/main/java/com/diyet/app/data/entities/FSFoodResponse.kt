@@ -1,4 +1,4 @@
-package com.dyiet.app.data.entities
+package com.diyet.app.data.entities
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable

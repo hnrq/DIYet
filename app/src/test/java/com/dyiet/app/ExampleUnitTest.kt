@@ -1,4 +1,4 @@
-package com.dyiet.app
+package com.diyet.app
 
 import org.junit.Test
 

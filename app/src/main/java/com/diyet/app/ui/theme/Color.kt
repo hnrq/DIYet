@@ -1,4 +1,4 @@
-package com.dyiet.app.ui.theme
+package com.diyet.app.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,6 +1,6 @@
-package com.dyiet.app.repository
+package com.diyet.app.repository
 
-import com.dyiet.app.BuildConfig
+import com.diyet.app.BuildConfig
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

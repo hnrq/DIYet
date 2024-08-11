@@ -1,4 +1,4 @@
-package com.dyiet.app.data.repository
+package com.diyet.app.data.repository
 
 import io.github.jan.supabase.gotrue.Auth
 import io.github.jan.supabase.gotrue.providers.Google

@@ -1,4 +1,4 @@
-package com.dyiet.app.data.repository
+package com.diyet.app.data.repository
 
 interface AuthenticationRepository {
     suspend fun signIn(email: String): Boolean

@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.dyiet.app"
+    namespace = "com.diyet.app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.dyiet.app"
+        applicationId = "com.diyet.app"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
